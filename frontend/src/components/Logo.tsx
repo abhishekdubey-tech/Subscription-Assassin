@@ -1,0 +1,1 @@
+export default function Logo({compact=false}:{compact?:boolean}){return <span className="brand"><span className="brand-mark"><img src="/subscription-assassin-logo.png" alt="" aria-hidden="true"/></span>{!compact&&<span className="brand-name">SUBSCRIPTION<span> ASSASSIN</span></span>}</span>}

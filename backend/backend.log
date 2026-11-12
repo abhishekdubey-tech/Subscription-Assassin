@@ -1,0 +1,4 @@
+INFO:     127.0.0.1:62575 - "POST /api/insights/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62802 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62817 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62817 - "GET /favicon.ico HTTP/1.1" 404 Not Found
